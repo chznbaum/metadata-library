@@ -1,5 +1,5 @@
 # metadata-library/.github/workflows/trigger-ff-build.yml
-name: Trigger Flamed Fury Build
+name: Trigger The Radically Inefficient Life Build
 on: [push]
 
 jobs:
@@ -38,12 +38,5 @@ jobs:
           else
              echo "No changes to commit"
           fi
-  build:
-    name: Call Netlify build hook
-    runs-on: ubuntu-latest
-    needs: [update-book-thumbnails]
-    steps:
-      - name: Curl request
-        run: curl -X POST -d {} "https://api.netlify.com/build_hooks/${TOKEN}"
-        env:
-          TOKEN: ${{ secrets.NetlifyWebHook }}
+  # build:
+  #   name: Call Kinsta build hook
