@@ -9,7 +9,7 @@
       "Liz Wiseman"
     ],
     "publishedDate": "2017-05-16",
-    "description": "We've all had experience with two dramatically different types of leaders. The first type drains intelligence, energy, and capability from the people around them and always needs to be the smartest person in the room. These are the idea killers, the energy sappers, the diminishers of talent and commitment. On the other side of the spectrum are leaders who use their intelligence to amplify the smarts and capabilities of the people around them. When these leaders walk into a room, light bulbs go off over people's heads; ideas flow, and problems get solved. These are the leaders who inspire employees to stretch themselves to deliver results that surpass expectations. These are the Multipliers. And the world needs more of them, especially now, when leaders are expected to do more with less....",
+    "description": "We’ve all had experience with two dramatically different types of leaders. The first type drains intelligence, energy, and capability from the people around them and always needs to be the smartest person in the room. These are the idea killers, the energy sappers, the diminishers of talent and commitment. On the other side of the spectrum are leaders who use their intelligence to amplify the smarts and capabilities of the people around them. When these leaders walk into a room, light bulbs go off over people’s heads; ideas flow, and problems get solved. These are the leaders who inspire employees to stretch themselves to deliver results that surpass expectations. These are the Multipliers. And the world needs more of them, especially now, when leaders are expected to do more with less....",
     "pageCount": 360,
     "printType": "BOOK",
     "categories": [
@@ -29,7 +29,7 @@
       "Cixin Liu"
     ],
     "publishedDate": "2015-03-12",
-    "description": "Read the award-winning, critically acclaimed, multi-million-copy-selling science-fiction phenomenon – soon to be a Netflix Original Series from the creators of Game of Thrones. 1967: Ye Wenjie witnesses Red Guards beat her father to death during China's Cultural Revolution. This singular event will shape not only the rest of her life but also the future of mankind. Four decades later, Beijing police ask nanotech engineer Wang Miao to infiltrate a secretive cabal of scientists after a spate of inexplicable suicides. Wang's investigation will lead him to a mysterious online game and immerse him in a virtual world ruled by the intractable and unpredictable interaction of its three suns. This is the Three-Body Problem and it is the key to everything: the key to the scientists' deaths, the key to a conspiracy that spans light-years and the key to the extinction-level threat humanity now faces. Praise for The Three-Body Problem: 'Your next favourite sci-fi novel' Wired 'Immense' Barack Obama 'Unique' George R.R. Martin 'SF in the grand style' Guardian 'Mind-altering and immersive' Daily Mail Winner of the Hugo and Galaxy Awards for Best Novel",
+    "description": "Read the award-winning, critically acclaimed, multi-million-copy-selling science-fiction phenomenon – soon to be a Netflix Original Series from the creators of Game of Thrones. 1967: Ye Wenjie witnesses Red Guards beat her father to death during China’s Cultural Revolution. This singular event will shape not only the rest of her life but also the future of mankind. Four decades later, Beijing police ask nanotech engineer Wang Miao to infiltrate a secretive cabal of scientists after a spate of inexplicable suicides. Wang’s investigation will lead him to a mysterious online game and immerse him in a virtual world ruled by the intractable and unpredictable interaction of its three suns. This is the Three-Body Problem and it is the key to everything: the key to the scientists’ deaths, the key to a conspiracy that spans light-years and the key to the extinction-level threat humanity now faces. Praise for The Three-Body Problem: ‘Your next favourite sci-fi novel’ Wired ‘Immense’ Barack Obama ‘Unique’ George R.R. Martin ‘SF in the grand style’ Guardian ‘Mind-altering and immersive’ Daily Mail Winner of the Hugo and Galaxy Awards for Best Novel",
     "pageCount": 426,
     "printType": "BOOK",
     "categories": [
@@ -46,7 +46,7 @@
     "rating": "unrated",
     "title": "The Enlightened Capitalists: Cautionary Tales of Business Pioneers Who Tried to Do Well by Doing Good",
     "authors": [
-      "James O'Toole"
+      "James O’Toole"
     ],
     "publishedDate": "2019-02-26",
     "description": "An expert on ethical leadership analyzes the complicated history of business people who tried to marry the pursuit of profits with virtuous organizational practices—from British industrialist Robert Owen to American retailer John Cash Penney and jeans maker Levi Strauss to such modern-day entrepreneurs Anita Roddick and Tom Chappell.",
@@ -58,5 +58,24 @@
     "thumbnail": "https://books.google.com/books/content?id=lC9eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/The_Enlightened_Capitalists.html?id=lC9eDwAAQBAJ"
+  },
+  {
+    "isbn": "9781250214713",
+    "status": "shelf",
+    "rating": "unrated",
+    "title": "All Systems Red",
+    "authors": [
+      "Martha Wells"
+    ],
+    "publishedDate": "2019-01-19",
+    "description": "In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn’t a primary concern.",
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=ZSu2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://www.google.com/books/edition/_/wRGyuAEACAAJ?hl=en&sa=X&ved=2ahUKEwiO_ZelrJOEAxVJF1kFHb-gB0AQre8FegQIDxAE"
   }
 ]
