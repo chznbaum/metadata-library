@@ -1,0 +1,202 @@
+[
+  {
+    "type": "cookbook",
+    "isbn": "978088289119",
+    "date": "2024-02-04",
+    "title": "Puerto Rican Cookery",
+    "authors": [
+      "Carmen Aboy Valldejuli"
+    ],
+    "publishedDate": "1983-01-01",
+    "description": "Puerto Rican Cookery has become the standard reference on traditional native cookery (cocina criolla). According to the San Juan Star, \"the cookbook is seen and is more likely better read in some homes than the religious tome. . . . [it] is considered a primer for beginning cooks . . . a textbook for home economists and it is a guide for the gourmet as well.\"",
+    "language": "en",
+    "link": "https://www.amazon.com/Puerto-Rican-Cookery-Carmen-Valldejuli/dp/0882894110",
+    "site": "",
+    "image": "cookbook-978088289119.png",
+    "notes": "This is my go-to when I want to share my Puerto Rican heritage with curious outsiders.",
+    "tags": [
+      "latin",
+      "caribbean"
+    ]
+  },
+  {
+    "type": "cookbook",
+    "isbn": "9781511460064",
+    "date": "2024-02-04",
+    "title": "Haïti Chérie",
+    "authors": [
+      "Michèle Rhésia Roumain"
+    ],
+    "publishedDate": "2015-10-15",
+    "description": "Haïti Chérie Creole Cuisine is a complete guide to cooking and eating Haitian style. It offers a collection of more than 100 easy-to-follow delicious and traditional Haitian recipes for snacks, main dishes, desserts, drinks, and everything you need to create an authentic Haitian feast at home.",
+    "language": "en",
+    "link": "https://www.amazon.com/Haiti-Cherie-Haitian-Creole-Cuisine/dp/1511460067",
+    "site": "",
+    "image": "cookbook-9781511460064.png",
+    "notes": "Similar to Puerto Rican Cookery, this is a tome I reach for when I want to share my Haitian heritage with Americans.",
+    "tags": [
+      "caribbean"
+    ]
+  },
+  {
+    "type": "cookbook",
+    "isbn": "9781476753836",
+    "date": "2024-02-04",
+    "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+    "authors": [
+      "B. Dylan Hollis"
+    ],
+    "publishedDate": "2017-04-25",
+    "description": "In the tradition of The Joy of Cooking and How to Cook Everything comes Salt, Fat, Acid, Heat, an ambitious new approach to cooking. Chef and writer Samin Nosrat has taught everyone from professional chefs to middle school kids to author Michael Pollan to cook using her revolutionary, yet simple, philosophy. Master the use of just four elements—Salt, which enhances flavor; Fat, which delivers flavor and generates texture; Acid, which balances flavor; and Heat, which ultimately determines the texture of food—and anything you cook will be delicious. By explaining the hows and whys of good cooking, Salt, Fat, Acid, Heat will teach and inspire a new generation of cooks how to confidently make better decisions in the kitchen and cook delicious meals with any ingredients, anywhere, at any time.",
+    "language": "en",
+    "link": "https://www.saltfatacidheat.com/buy-book",
+    "site": "",
+    "image": "cookbook-9781476753836.png",
+    "notes": "Growing up, my dad usually cooked without recipes, and I always wondered how he managed to end up with good dishes more often than not. Samin's book gives foundational understanding of the building blocks of food so that you can intuitively understand what will work and why, or how to substitute for an ingredient when it's not on hand.",
+    "tags": [
+      "textbook"
+    ]
+  },
+  {
+    "type": "cookbook",
+    "isbn": "9781524761738",
+    "date": "2024-02-04",
+    "title": "Jubilee: Recipes from two centuries of African American cooking",
+    "authors": [
+      "B. Dylan Hollis"
+    ],
+    "publishedDate": "2019-11-05",
+    "description": "Throughout her career, Toni Tipton-Martin has shed new light on the history, breadth, and depth of African American cuisine. She’s introduced us to black cooks, some long forgotten, who established much of what’s considered to be our national cuisine. After all, if Thomas Jefferson introduced French haute cuisine to this country, who do you think actually cooked it?",
+    "language": "en",
+    "link": "https://www.amazon.com/Jubilee-Recipes-Centuries-African-American-Cookbook/dp/1524761737",
+    "site": "",
+    "image": "cookbook-9781524761738.png",
+    "notes": "This cookbook is joyful, and not merely because it lets me indulge in the history. The flavorful recipes are lovingly presented; down to the delightful texture of the cover everything shows meticulous attention to detail.",
+    "tags": [
+      "history",
+      "African American"
+    ]
+  },
+  {
+    "type": "cookbook",
+    "isbn": "9780744080049",
+    "date": "2024-02-04",
+    "title": "Baking Yesteryear: the best recipes from the 1900s to the 1980s",
+    "authors": [
+      "B. Dylan Hollis"
+    ],
+    "publishedDate": "2023-07-25",
+    "description": "Friends of baking, are you sick and tired of making the same recipes again and again? Then look no further than this baking blast from the past, as B. Dylan Hollis highlights the most unique tasty treats of yesteryear.",
+    "language": "en",
+    "link": "https://www.amazon.com/Baking-Yesteryear-Recipes-1900s-1980s/dp/0744080045",
+    "site": "",
+    "image": "cookbook-9780744080049.png",
+    "notes": "A good friend gave this to me, and I love its cheeky ernestness and the historical element. While some recipes, like Monster Cookies, are familiar from my childhood, much of the American and Canadian recipes were complete unknowns to me. Some truly horrifying recipes are properly cordoned off.",
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "type": "recipe",
+    "isbn": "",
+    "date": "2024-02-04",
+    "title": "Chuletas Guisadas: Puerto Rican Stewed Pork Chops",
+    "authors": [
+      "Monti Carlo"
+    ],
+    "publishedDate": "",
+    "description": "If you’re looking for a hearty family meal that’s mouthwateringly delicious and a breeze to put together, you need to make these savory Chuletas Guisadas! I grew up eating this dish of unctuous stewed pork chops in Puerto Rico, where my Abuela would serve it at least once a week. It comes together in under thirty minutes, and as it stews, the fragrance is so overwhelmingly good everyone in your home will ask what’s cooking! (For real.)",
+    "language": "en",
+    "link": "https://www.budgetbytes.com/chuletas-guisadas/",
+    "site": "Budget Bytes",
+    "image": "recipe-chuletas-guisadas.jpeg",
+    "notes": "Practically a weekly staple in our home, this is my favorite way to enjoy pork chops.",
+    "tags": [
+      "latin",
+      "caribbean",
+      "pork"
+    ]
+  },
+  {
+    "type": "recipe",
+    "isbn": "",
+    "date": "2024-02-04",
+    "title": "Pollo Guisado: Puerto Rican Chicken Stew",
+    "authors": [
+      "Monti Carlo"
+    ],
+    "publishedDate": "",
+    "description": "Warm your bones and fill your belly with Pollo Guisado, a hearty Puerto Rican chicken stew that’s packed with flavor, easy to make, and ready to devour in about an hour. Granted, we eat this year-round on my little island, where it rarely dips below 70 degrees. But it’s especially delightful when the weather turns chilly and you’re looking for a hearty meal to make you feel all sorts of toasty.",
+    "language": "en",
+    "link": "https://www.budgetbytes.com/pollo-guisado/",
+    "site": "Budget Bytes",
+    "image": "recipe-pollo-guisado.jpeg",
+    "notes": "I confess, I don't actually know my mom's recipe for pollo guisado, so I'm not sure how the two compare. But my family loves this version, and it produces great freezable leftovers.",
+    "tags": [
+      "latin",
+      "caribbean",
+      "chicken"
+    ]
+  },
+  {
+    "type": "recipe",
+    "isbn": "",
+    "date": "2024-02-04",
+    "title": "Puerto Rican Rice and Beans",
+    "authors": [
+      "Monti Carlo"
+    ],
+    "publishedDate": "",
+    "description": "Boricuas (i.e., people from Puerto Rico) eat Puerto Rican Rice and Beans almost every day because the dish has bold flavors, is easy to prepare, and is budget-friendly! Arroz Con Habichuelas, as it’s called on the island, can be a meal on its own with a side of ripe yellow plantain slices, or you can serve it as a sidekick to any protein. Welcome to your new favorite weeknight staple!",
+    "language": "en",
+    "link": "https://www.budgetbytes.com/puerto-rican-rice-and-beans/",
+    "site": "Budget Bytes",
+    "image": "recipe-puerto-rican-rice-and-beans.jpeg",
+    "notes": "We have rice and beans in some form multiple times most weeks. Most of the time we simplify, omitting sweet potato and bell pepper, among other things. But when we go all out it is even more delicious.",
+    "tags": [
+      "latin",
+      "caribbean",
+      "beans"
+    ]
+  },
+  {
+    "type": "recipe",
+    "isbn": "",
+    "date": "2024-02-04",
+    "title": "Easy Sesame Chicken",
+    "authors": [
+      "Beth Moncel"
+    ],
+    "publishedDate": "",
+    "description": "This Easy Sesame Chicken recipe is seriously so easy that you’ll be tempted to toss those take-out menus. The deliciously sweet and savory sauce takes only a few ingredients, all of which you can keep on hand indefinitely (keep your ginger in the freezer). You know, just in case you need some sesame chicken like, now. Oh, and this take-out fake-out sesame chicken works great for your weekly meal prep, too!",
+    "language": "en",
+    "link": "https://www.budgetbytes.com/easy-sesame-chicken/",
+    "site": "Budget Bytes",
+    "image": "recipe-easy-sesame-chicken.jpeg",
+    "notes": "I made this for the family at Christmas and it quickly became a crowd favorite. We're sure to add this to our ongoing rotation.",
+    "tags": [
+      "Asian inspired",
+      "chicken"
+    ]
+  },
+  {
+    "type": "recipe",
+    "isbn": "",
+    "date": "2024-02-04",
+    "title": "Pasta e Fagioli",
+    "authors": [
+      "Marion Kirkpatrick"
+    ],
+    "publishedDate": "",
+    "description": "If you’re looking for a super cozy and hearty soup to get you through ’til spring, you’ve got to try this Pasta e Fagioli for dinner tonight. I was lucky enough to eat Pasta e Fagioli for the first time in Italy, and it was so good—I wanted to lick the bowl clean after finishing the last spoonful! I’ve tweaked my own version over the years, combining techniques from both traditional Italian versions and Americanized ones, finally arriving at a soup that is easy to prepare, insanely nostalgic, and ridiculously comforting.",
+    "language": "en",
+    "link": "https://www.budgetbytes.com/pasta-e-fagioli/",
+    "site": "Budget Bytes",
+    "image": "recipe-pasta-e-fagioli.jpeg",
+    "notes": "This is not the way my mom made pasta e fagioli growing up when we came to the states. But I think it's honestly better—the same flavor profile comes through with much less time investment, making this dish feasible on busy weeknights.",
+    "tags": [
+      "Italian",
+      "beans"
+    ]
+  }
+]
