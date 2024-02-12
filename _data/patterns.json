@@ -3291,6 +3291,7 @@
   {
     "name": "Elodie Wrap Dress",
     "brand": "Closet Core",
+    "brandLink": "https://closetcorepatterns.com/",
     "photos": [
       "elodie-16.jpeg",
       "elodie-17.jpeg",
@@ -3322,7 +3323,7 @@
     "pricePaid": 25.47,
     "course": "",
     "garments": [],
-    "link": ""
+    "link": "https://closetcorepatterns.com/collections/sewing-patterns-all/products/elodie-wrap-dress-pattern"
   },
   {
     "name": "Morgan Jeans",
@@ -3593,7 +3594,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3669,11 +3670,11 @@
     "brand": "Wildflower Design",
     "brandLink": "https://www.wildflowerdesignpatterns.com/",
     "photos": [
-      "coquelicot-01.webp",
-      "coquelicot-02.webp",
-      "coquelicot-03.webp",
-      "coquelicot-04.webp",
-      "coquelicot-05.webp"
+      "coquelicot_01.webp",
+      "coquelicot_02.webp",
+      "coquelicot_03.webp",
+      "coquelicot_04.webp",
+      "coquelicot_05.webp"
     ],
     "types": [
       "Woven"
