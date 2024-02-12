@@ -20,7 +20,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Jacket, Blouse & Skirt 1931",
@@ -43,7 +44,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Caftans 5315",
@@ -55,7 +57,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -66,7 +68,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Petite Shorts V8085",
@@ -89,7 +92,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Butcher Apron",
@@ -112,7 +116,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Top and Sash B5355",
@@ -135,7 +140,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tops M5384",
@@ -158,7 +164,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tunic B5496",
@@ -182,7 +189,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Shirt 7754",
@@ -205,7 +213,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Petite Pants with Individual Pieces Given for Slim, Average and Curvy Fit 2700",
@@ -228,7 +237,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Costumes 7756",
@@ -251,7 +261,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Orchidée Dress",
@@ -278,7 +289,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’, Children’s and Girls’ Top, Skirt, Shorts and Pants M7942",
@@ -305,7 +317,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed Culottes",
@@ -330,7 +343,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed Jacket",
@@ -355,7 +369,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed Pants",
@@ -380,7 +395,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed Button-Up Blouse",
@@ -405,7 +421,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed Blouse",
@@ -431,7 +448,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed Mockneck",
@@ -456,7 +474,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed Dress",
@@ -481,7 +500,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed Skirt",
@@ -506,7 +526,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Dressed T-Shirt",
@@ -531,7 +552,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Jacket, Top and Pants S9271",
@@ -556,7 +578,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Sweet Pea Blouse",
@@ -579,7 +602,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Peg Legs Leggings",
@@ -602,7 +626,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Flutter Wrap Dress",
@@ -625,7 +650,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Essential Tank",
@@ -648,7 +674,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Sweetheart Dress",
@@ -671,7 +698,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Gala Gown",
@@ -694,7 +722,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "So Classic Sundress",
@@ -717,7 +746,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Vintage Shirt Dress",
@@ -741,7 +771,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Pussy Bow Blouse",
@@ -764,7 +795,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Ella Blouse",
@@ -786,7 +818,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Wren Blouse & Dress",
@@ -811,7 +844,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Marcel Dress & Tank Top",
@@ -834,7 +868,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Pixie Top & Dress",
@@ -858,7 +893,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Joy Jacket",
@@ -881,7 +917,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Hampton Jean Jacket",
@@ -906,7 +943,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Easy Peasy Potholder",
@@ -929,7 +967,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Chi-Town Chinos, Shorts & Skirt",
@@ -958,7 +997,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Zero Waste Sewing Pattern no. 1",
@@ -983,7 +1023,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Gracie Sleep Mask",
@@ -1004,7 +1045,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Delphine Misses’ Robe",
@@ -1026,7 +1068,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Cecilia Misses’ Pajamas",
@@ -1048,7 +1091,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Safran Pants",
@@ -1078,7 +1122,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Passiflore Dress",
@@ -1113,7 +1158,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Opium Coat",
@@ -1142,7 +1188,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Sirocco Jumpsuit",
@@ -1172,7 +1219,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Agave Skirt",
@@ -1200,7 +1248,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Magnolia Dress",
@@ -1227,7 +1276,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Plantain Shirt",
@@ -1253,7 +1303,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Bleuet Dress",
@@ -1280,7 +1331,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Panama Tee Dress",
@@ -1306,7 +1358,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Gracie Misses’ Pajama Set",
@@ -1331,7 +1384,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Jackets M7513",
@@ -1354,7 +1408,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Dresses and Belt M7351",
@@ -1377,7 +1432,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Ponchos M7202",
@@ -1401,7 +1457,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Dresses and Slip M6696",
@@ -1424,7 +1481,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tops with A/B, C, D cup sizes M7357",
@@ -1447,7 +1505,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Top B4685",
@@ -1471,7 +1530,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Dresses with A/B, C, D cup sizes M8060",
@@ -1494,7 +1554,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tops and Dresses M7892",
@@ -1522,7 +1583,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tops M8145",
@@ -1545,7 +1607,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Top and Dresses M7353",
@@ -1568,7 +1631,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Top and Sash B6685",
@@ -1591,7 +1655,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Skirts M7129",
@@ -1614,7 +1679,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Skirts M8066",
@@ -1637,7 +1703,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’/Women’s Dresses M7313",
@@ -1660,7 +1727,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tops M7322",
@@ -1684,7 +1752,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Petite Jacket, Skirt and Pants V9336",
@@ -1707,7 +1776,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ and Women’s Dresses M8215",
@@ -1730,7 +1800,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tops M8198",
@@ -1742,7 +1813,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -1753,7 +1824,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Dresses and Belt M7405",
@@ -1777,7 +1849,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ and Women’s Dresses M8211",
@@ -1800,7 +1873,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Top and Mask M8220",
@@ -1823,7 +1897,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Shorts M8221",
@@ -1846,7 +1921,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Skirts M7197",
@@ -1869,7 +1945,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Dresses M7946",
@@ -1892,7 +1969,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tops M7901",
@@ -1915,7 +1993,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Ponchos M7846",
@@ -1938,7 +2017,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Unisex Child’s, Teens’ and Adults’ Pants, Top, Slippers and Remote Control Holder 3935",
@@ -1963,7 +2043,8 @@
     "course": "",
     "garments": [
       "Sebastian Sloth Pajamas"
-    ]
+    ],
+    "link": ""
   },
   {
     "name": "Luzerne Trench",
@@ -1989,7 +2070,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Narcisse Pants",
@@ -2015,7 +2097,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Mélilot Shirt",
@@ -2042,7 +2125,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Bruyère Shirt",
@@ -2069,7 +2153,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Réglisse Dress",
@@ -2095,7 +2180,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Zéphyr Dress",
@@ -2123,7 +2209,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Chardon Skirt",
@@ -2150,7 +2237,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Givre Dress",
@@ -2180,7 +2268,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Hoya Blouse",
@@ -2207,7 +2296,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Goji Shorts/Skirt",
@@ -2234,7 +2324,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Dress 6203",
@@ -2255,7 +2346,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Renaissance Costumes 8735",
@@ -2276,7 +2368,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Miss Petite Dress and Cummerbund 1459",
@@ -2297,7 +2390,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Lingerie 5006",
@@ -2318,7 +2412,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Lined Tops, Skirt and Stole 9672",
@@ -2339,7 +2434,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Petite Dress 3878",
@@ -2360,7 +2456,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Petite Dress and Tie B5177",
@@ -2381,7 +2478,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ 18th Century Undergarments 8162",
@@ -2402,7 +2500,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Petite Jumper 4616",
@@ -2423,7 +2522,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Shirts 3723",
@@ -2444,7 +2544,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tops M4516",
@@ -2465,7 +2566,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Lined Dress in Two Lengths and Sash 8013",
@@ -2486,7 +2588,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Wrap Skirts 8746",
@@ -2507,7 +2610,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Kimono Jackets S9124",
@@ -2528,7 +2632,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Tunics, Top and Pull on Pant S9113",
@@ -2554,7 +2659,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Misses’ Vintage Caftans 8505",
@@ -2577,7 +2683,8 @@
     "datePurchased": "",
     "pricePaid": "",
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Smooth Sailing Sport Togs Blouse & Trousers",
@@ -2601,7 +2708,8 @@
     "datePurchased": "2021-05-14",
     "pricePaid": 16,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Triple Threat Briefcase",
@@ -2629,7 +2737,8 @@
     "datePurchased": "2021-01-21",
     "pricePaid": 9,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Inès High Waisted Trousers",
@@ -2657,7 +2766,8 @@
     "datePurchased": "2021-01-26",
     "pricePaid": 14.17,
     "course": "Inès High Waisted Trousers Sewalong",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Stephanie Skirt",
@@ -2686,7 +2796,8 @@
     "datePurchased": "2021-01-26",
     "pricePaid": 10,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Anna Button Shirt",
@@ -2711,7 +2822,8 @@
     "datePurchased": "2021-01-26",
     "pricePaid": 12.79,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Catalina Mini Backpack Purse",
@@ -2737,7 +2849,8 @@
     "datePurchased": "2021-01-21",
     "pricePaid": 6.99,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Sawyer Satchel",
@@ -2763,7 +2876,8 @@
     "datePurchased": "2021-01-21",
     "pricePaid": 6.99,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Valley Tote",
@@ -2788,7 +2902,8 @@
     "datePurchased": "2021-01-21",
     "pricePaid": 6.99,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Summit Pack",
@@ -2814,7 +2929,8 @@
     "datePurchased": "2021-01-21",
     "pricePaid": 6.99,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Winslet Wallet",
@@ -2842,7 +2958,8 @@
     "datePurchased": "2021-01-21",
     "pricePaid": 8.95,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Leonie Blouse",
@@ -2866,7 +2983,8 @@
     "datePurchased": "2021-01-10",
     "pricePaid": 14.06,
     "course": "Leonie Blouse Sewalong",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Pinafore Apron",
@@ -2892,7 +3010,8 @@
     "datePurchased": "2021-01-05",
     "pricePaid": 8,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "The Luscious Layers Apron",
@@ -2919,7 +3038,8 @@
     "datePurchased": "2021-01-05",
     "pricePaid": 8,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Marilyn Monroe Shoe String Dress",
@@ -2943,7 +3063,8 @@
     "datePurchased": "2020-07-26",
     "pricePaid": 16.29,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Skirted Bathing Suit and Beach Coat",
@@ -2964,7 +3085,8 @@
     "datePurchased": "2020-07-26",
     "pricePaid": 13.33,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Gathered Bodice Drindl Pinup Dress",
@@ -2987,7 +3109,8 @@
     "datePurchased": "2020-07-26",
     "pricePaid": 11.84,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Halter Neck Bathing Suit & Beach Coat",
@@ -3008,7 +3131,8 @@
     "datePurchased": "2020-07-26",
     "pricePaid": 13.33,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Studio Pants",
@@ -3041,7 +3165,8 @@
     "course": "",
     "garments": [
       "Allwell Studio Pants | Khaki Cotton Canvas"
-    ]
+    ],
+    "link": ""
   },
   {
     "name": "Sophie Swimsuit",
@@ -3059,7 +3184,7 @@
     ],
     "types": [],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": true,
     "favoritePattern": true,
@@ -3070,7 +3195,8 @@
     "datePurchased": "2021-05-22",
     "pricePaid": 0,
     "course": "Sew Your Dream Swimsuit",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Ginger Skinny Jeans",
@@ -3092,7 +3218,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3103,7 +3229,8 @@
     "datePurchased": "2021-05-22",
     "pricePaid": 0,
     "course": "Sew Your Dream Jeans",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Picnic Skirt",
@@ -3118,7 +3245,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3129,7 +3256,8 @@
     "datePurchased": "2021-05-22",
     "pricePaid": 0,
     "course": "Picnic Skirt",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Women/Child Caftans S8937",
@@ -3146,7 +3274,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": true,
     "made": false,
     "favoritePattern": false,
@@ -3157,7 +3285,8 @@
     "datePurchased": "2021-05-21",
     "pricePaid": 13.09,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Elodie Wrap Dress",
@@ -3192,7 +3321,8 @@
     "datePurchased": "2021-05-21",
     "pricePaid": 25.47,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Morgan Jeans",
@@ -3214,7 +3344,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3225,7 +3355,8 @@
     "datePurchased": "2021-05-21",
     "pricePaid": 25.47,
     "course": "Sew Your Dream Jeans",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Jasika Blazer",
@@ -3250,7 +3381,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3262,7 +3393,8 @@
     "datePurchased": "2021-05-21",
     "pricePaid": 25.47,
     "course": "Learn to Sew a Classic Blazer",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Jenna Blouse",
@@ -3280,7 +3412,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3292,7 +3424,8 @@
     "datePurchased": "2021-05-21",
     "pricePaid": 21.23,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Alya T-Shirt",
@@ -3321,7 +3454,8 @@
     "datePurchased": "2021-05-21",
     "pricePaid": 21.23,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Ogden Cami",
@@ -3338,7 +3472,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3349,7 +3483,8 @@
     "datePurchased": "2021-05-18",
     "pricePaid": 25.47,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Kochi Jacket",
@@ -3366,7 +3501,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3377,11 +3512,13 @@
     "datePurchased": "2021-05-18",
     "pricePaid": 26.89,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Rae Skirt",
     "brand": "Sewaholic",
+    "brandLink": "https://www.sewaholicpatterns.com/",
     "photos": [
       "1404_Sewaholic_Rae_Envelope_front__48520.1405801915.1280.1280.jpg",
       "Rae-Skirt-1.jpeg",
@@ -3396,7 +3533,7 @@
     "own": true,
     "wantToSew": true,
     "makeAsGift": false,
-    "made": false,
+    "made": true,
     "favoritePattern": false,
     "typesOwned": [
       "Paper"
@@ -3405,7 +3542,8 @@
     "datePurchased": "2021-05-18",
     "pricePaid": 21.93,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": "https://www.sewaholicpatterns.com/rae-skirt/"
   },
   {
     "name": "Coquelicot Dress",
@@ -3425,7 +3563,7 @@
       "Woven"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3436,7 +3574,8 @@
     "datePurchased": "2021-05-18",
     "pricePaid": 23.35,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Terrace Dress",
@@ -3466,7 +3605,8 @@
     "datePurchased": "2021-05-18",
     "pricePaid": 26.89,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Antrim Dress",
@@ -3480,7 +3620,7 @@
       "Knit"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3492,7 +3632,8 @@
     "datePurchased": "2021-05-18",
     "pricePaid": 26.89,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
   },
   {
     "name": "Agatha Dress",
@@ -3508,7 +3649,7 @@
       "Knit"
     ],
     "own": true,
-    "wantToSew": true,
+    "wantToSew": false,
     "makeAsGift": false,
     "made": false,
     "favoritePattern": false,
@@ -3520,6 +3661,131 @@
     "datePurchased": "2021-05-18",
     "pricePaid": 21.23,
     "course": "",
-    "garments": []
+    "garments": [],
+    "link": ""
+  },
+  {
+    "name": "Coquelicot Skirt",
+    "brand": "Wildflower Design",
+    "brandLink": "https://www.wildflowerdesignpatterns.com/",
+    "photos": [
+      "coquelicot-01.webp",
+      "coquelicot-02.webp",
+      "coquelicot-03.webp",
+      "coquelicot-04.webp",
+      "coquelicot-05.webp"
+    ],
+    "types": [
+      "Woven"
+    ],
+    "own": true,
+    "wantToSew": true,
+    "makeAsGift": false,
+    "made": true,
+    "favoritePattern": true,
+    "typesOwned": [
+      "PDF",
+      "Printed copy shop"
+    ],
+    "difficulty": "",
+    "datePurchased": "2023-12-01",
+    "pricePaid": "",
+    "course": "",
+    "garments": [],
+    "link": "https://www.wildflowerdesignpatterns.com/product-page/coquelicot-skirt"
+  },
+  {
+    "name": "Rose Blouse and Dress",
+    "brand": "Closet Core Crew",
+    "brandLink": "https://closetcorepatterns.com/pages/join-crew",
+    "photos": [
+      "Rose-Blouse-Pattern-20.webp",
+      "Rose-Blouse-Pattern-11.webp",
+      "Rose-Blouse-Pattern-23.webp",
+      "Rose-Blouse-Pattern-24.webp",
+      "Rose-Blouse-Pattern-03.webp",
+      "Rose-Blouse-Pattern-09.webp"
+    ],
+    "types": [
+      "Woven"
+    ],
+    "own": true,
+    "wantToSew": true,
+    "makeAsGift": false,
+    "made": true,
+    "favoritePattern": true,
+    "typesOwned": [
+      "PDF",
+      "Printed copy shop"
+    ],
+    "difficulty": "",
+    "datePurchased": "2023-12-01",
+    "pricePaid": "",
+    "course": "",
+    "garments": [
+      "Closet Core Rose Dress | Camoflage Viscose"
+    ],
+    "link": "https://closetcorepatterns.com/products/2023-12-this-month"
+  },
+  {
+    "name": "Sandstone Jacket",
+    "brand": "Closet Core Crew",
+    "brandLink": "https://closetcorepatterns.com/pages/join-crew",
+    "photos": [
+      "Sandstone-Jacket-Pattern-15.webp",
+      "Sandstone-Jacket-Pattern-19.webp",
+      "Sandstone-Jacket-Pattern-16.webp",
+      "Sandstone-Jacket-Pattern-22.webp",
+      "Sandstone-Jacket-Pattern-28.webp",
+      "Sandstone-Jacket-Pattern-03.webp",
+      "Sandstone-Jacket-Pattern-05.webp",
+      "Sandstone-Jacket-Pattern-10.webp"
+    ],
+    "types": [
+      "Woven"
+    ],
+    "own": true,
+    "wantToSew": true,
+    "makeAsGift": false,
+    "made": false,
+    "favoritePattern": false,
+    "typesOwned": [
+      "PDF",
+      "Printed copy shop"
+    ],
+    "difficulty": "",
+    "datePurchased": "2024-02-01",
+    "pricePaid": "",
+    "course": "",
+    "garments": [],
+    "link": "https://closetcorepatterns.com/products/2024-02-this-month"
+  },
+  {
+    "name": "Cora Top",
+    "brand": "Silversaga Patterns",
+    "brandLink": "https://silversaga.se/",
+    "photos": [
+      "Jessica_Silversaga_Cora1.webp",
+      "Jessica_Silversaga_Cora2.webp",
+      "Jessica_Silversaga_Cora3.webp"
+    ],
+    "types": [
+      "Woven"
+    ],
+    "own": true,
+    "wantToSew": true,
+    "makeAsGift": false,
+    "made": false,
+    "favoritePattern": false,
+    "typesOwned": [
+      "PDF",
+      "Printed copy shop"
+    ],
+    "difficulty": "",
+    "datePurchased": "2024-02-07",
+    "pricePaid": "",
+    "course": "",
+    "garments": [],
+    "link": "https://silversaga.se/products/cora-top-sewing-pattern"
   }
 ]
